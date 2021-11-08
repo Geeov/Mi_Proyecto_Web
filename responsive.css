@@ -1,0 +1,107 @@
+.elemento1{
+    background-color: pink;
+    width: 40%;
+    height: 100px;
+    padding: 20px;
+}
+.elemento1 a {
+    text-decoration: none;
+    color: black;
+    
+}
+.elemento2{
+    background-color: red;
+    width: 40%;
+    height: 100px;
+    padding: 20px;
+}
+.elemento2 a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.elemento3{
+    background-color: yellow;
+    width: 40%;
+    height: 100px;
+    padding: 20px;
+}
+.elemento3 a{
+    text-decoration: none;
+    color: black;
+}
+.elemento4{
+    background-color: green;
+    width: 40%;
+    height: 100px;
+    padding: 20px;
+}
+.elemento4 a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+
+@media screen and (max-width: 500px) {
+    .nav{
+        padding: 0px;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    .items-nav{
+        margin-top: 5px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 80px;
+        
+       
+    }
+    .item{
+        text-decoration: none;
+        color: black;
+        width: 90%;
+        margin-bottom: 30px;
+    }
+    
+    header{
+        padding: 0px;
+        margin-bottom: 10px;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+}
+@media screen and(min-width: 505px){
+    .item{
+        width: 70%;
+    }
+    nav{
+        height: 120px;
+    }
+}
+
+@media screen and(min-width: 700px){
+    .item{
+        width: 70%;
+    }
+    nav{
+        height: 75px;
+        justify-content: flex-start;
+    }
+}  
+@media screen and(min-width: 980px){
+    .item{
+        width: 30%;
+    }
+}
+@media screen and(min-width: 1200px){
+    .item{
+        width: 22%;
+    }
+}
+
