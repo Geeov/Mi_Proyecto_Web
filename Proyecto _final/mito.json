@@ -8,70 +8,70 @@
             "Panteon": "Nórdico",
             "Dios": "Loki",
             "Descipción": "Dios del engaño",
-            "Imagen": "https://static.wikia.nocookie.net/smite6648/images/f/fe/Loki.png/revision/latest?cb=20150930120458&path-prefix=es"
+            "Imagen": "https://giemo.es/wp-content/uploads/2020/10/1602018203_Ultimas-actualizaciones-Loki-Rework-Headlines-Smite.jpg"
         },
         {
             "id": "2",
-            "Panteon": "Griego",
-            "Dios": "Cronos",
-            "Descripcion": "Dios del tiempo",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/a/a8/SkinArt_Chronos_Default.jpg/revision/latest/scale-to-width-down/250?cb=20160505052233"
+            "Panteon": "Nórdico",
+            "Dios": "Skadi",
+            "Descripcion": "Diosa del invierno",
+            "Imagen": "https://p4.wallpaperbetter.com/wallpaper/683/115/614/video-game-smite-skadi-smite-hd-wallpaper-preview.jpg"
         },
         {
             "id": "3",
             "Panteon": "Celta",
             "Dios": "Cu Chulainn",
             "Descripcion": "Perro de Culann",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/a/aa/SkinArt_CuChulainn_Default.jpg/revision/latest?cb=20170615004432"
+            "Imagen": "https://webcdn.hirezstudios.com/smite/wp-content/uploads/2017/06/o78kyumjgh35wresfd2056x1446.jpg"
         },
         {
             "id": "4",
             "Panteon": "Nórdico",
             "Dios": "Jormundgander",
             "Descripcion": "La Serpiente de Midgard",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/b/bb/SkinArt_Jormungandr_Default.jpg/revision/latest/scale-to-width-down/250?cb=20190725153557"
+            "Imagen": "https://images7.alphacoders.com/994/thumb-1920-994741.png"
         },
         {
             "id": "5",
             "Panteon": "Egipcio",
             "Dios": "Seth",
             "Descripcion": "Dios de la sequía",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/c/cf/SkinArt_Set_Default.jpg/revision/latest?cb=20190725153624"
+            "Imagen": "https://images3.alphacoders.com/100/1008788.jpg"
         },
         {
             "id": "6",
             "Panteon": "Egipcio",
             "Dios": "Horus",
             "Descripcion": "Dios del cielo",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/7/71/SkinArt_Horus_Default.jpg/revision/latest/scale-to-width-down/250?cb=20190725153617"
+            "Imagen": "https://images4.alphacoders.com/100/thumb-1920-1008786.jpg"
         },
         {
             "id": "7",
             "Panteon": "Griego",
-            "Dios": "Nike",
-            "Descripcion": "Diosa de la victoria",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/e/eb/SkinArt_Nike_Default.jpg/revision/latest?cb=20161130221341"
+            "Dios": "Perséfone",
+            "Descripcion": "Diosa del inframundo",
+            "Imagen": "https://images8.alphacoders.com/103/thumb-350-1038095.jpg"
         },
         {
             "id": "8",
             "Panteon": "Japonés",
             "Dios": "Amaterasu",
             "Descripcion": "Diosa del sol",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/8/8a/SkinArt_Amaterasu_Default.jpg/revision/latest/scale-to-width-down/250?cb=20160108210941"
+            "Imagen": "https://images4.alphacoders.com/104/thumb-350-1047632.jpg"
         },
         {
             "id": "9",
             "Panteon": "Japonés",
             "Dios": "Susano",
             "Descripcion": "Dios del mar",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/6/6b/SkinArt_Susano_Default.jpg/revision/latest?cb=20160504211326"
+            "Imagen": "https://images3.alphacoders.com/760/thumb-1920-760090.jpg"
         },
         {
             "id": "10",
             "Panteon": "Nórdico",
             "Dios": "Heimdallr",
             "Descripcion": "Dios guardián",
-            "Imagen": "https://static.wikia.nocookie.net/smite_gamepedia/images/c/cd/SkinArt_Heimdallr_Default.jpg/revision/latest?cb=20191211182040"
+            "Imagen": "https://images6.alphacoders.com/105/1053799.jpg"
         }
 
     ]
