@@ -5,73 +5,73 @@
     "figures":[
         {
             "id": "1",
-            "Panteon": "Nórdico",
-            "Dios": "Loki",
-            "Descipción": "Dios del engaño",
-            "Imagen": "https://giemo.es/wp-content/uploads/2020/10/1602018203_Ultimas-actualizaciones-Loki-Rework-Headlines-Smite.jpg"
+            "pant": "Nórdico",
+            "dios": "Loki",
+            "des": "Dios del engaño",
+            "pic": "https://giemo.es/wp-content/uploads/2020/10/1602018203_Ultimas-actualizaciones-Loki-Rework-Headlines-Smite.jpg"
         },
         {
             "id": "2",
-            "Panteon": "Nórdico",
-            "Dios": "Skadi",
-            "Descripcion": "Diosa del invierno",
-            "Imagen": "https://p4.wallpaperbetter.com/wallpaper/683/115/614/video-game-smite-skadi-smite-hd-wallpaper-preview.jpg"
+            "pant": "Nórdico",
+            "dios": "Skadi",
+            "des": "Diosa del invierno",
+            "pic": "https://p4.wallpaperbetter.com/wallpaper/683/115/614/video-game-smite-skadi-smite-hd-wallpaper-preview.jpg"
         },
         {
             "id": "3",
-            "Panteon": "Celta",
-            "Dios": "Cu Chulainn",
-            "Descripcion": "Perro de Culann",
-            "Imagen": "https://webcdn.hirezstudios.com/smite/wp-content/uploads/2017/06/o78kyumjgh35wresfd2056x1446.jpg"
+            "pant": "Celta",
+            "dios": "Cu Chulainn",
+            "des": "Perro de Culann",
+            "pic": "https://webcdn.hirezstudios.com/smite/wp-content/uploads/2017/06/o78kyumjgh35wresfd2056x1446.jpg"
         },
         {
             "id": "4",
-            "Panteon": "Nórdico",
-            "Dios": "Jormundgander",
-            "Descripcion": "La Serpiente de Midgard",
-            "Imagen": "https://images7.alphacoders.com/994/thumb-1920-994741.png"
+            "pant": "Nórdico",
+            "dios": "Jormundgander",
+            "des": "La Serpiente de Midgard",
+            "pic": "https://images7.alphacoders.com/994/thumb-1920-994741.png"
         },
         {
             "id": "5",
-            "Panteon": "Egipcio",
-            "Dios": "Seth",
-            "Descripcion": "Dios de la sequía",
-            "Imagen": "https://images3.alphacoders.com/100/1008788.jpg"
+            "pant": "Egipcio",
+            "dios": "Seth",
+            "des": "Dios de la sequía",
+            "pic": "https://images3.alphacoders.com/100/1008788.jpg"
         },
         {
             "id": "6",
-            "Panteon": "Egipcio",
-            "Dios": "Horus",
-            "Descripcion": "Dios del cielo",
-            "Imagen": "https://images4.alphacoders.com/100/thumb-1920-1008786.jpg"
+            "pant": "Egipcio",
+            "dios": "Horus",
+            "des": "Dios del cielo",
+            "pic": "https://images4.alphacoders.com/100/thumb-1920-1008786.jpg"
         },
         {
             "id": "7",
-            "Panteon": "Griego",
-            "Dios": "Perséfone",
-            "Descripcion": "Diosa del inframundo",
-            "Imagen": "https://images8.alphacoders.com/103/thumb-350-1038095.jpg"
+            "pant": "Griego",
+            "dios": "Perséfone",
+            "des": "Diosa del inframundo",
+            "pic": "https://images8.alphacoders.com/103/thumb-350-1038095.jpg"
         },
         {
             "id": "8",
-            "Panteon": "Japonés",
-            "Dios": "Amaterasu",
-            "Descripcion": "Diosa del sol",
-            "Imagen": "https://images4.alphacoders.com/104/thumb-350-1047632.jpg"
+            "pant": "Japonés",
+            "dios": "Amaterasu",
+            "des": "Diosa del sol",
+            "pic": "https://images4.alphacoders.com/104/thumb-350-1047632.jpg"
         },
         {
             "id": "9",
-            "Panteon": "Japonés",
-            "Dios": "Susano",
-            "Descripcion": "Dios del mar",
-            "Imagen": "https://images3.alphacoders.com/760/thumb-1920-760090.jpg"
+            "pant": "Japonés",
+            "dios": "Susano",
+            "des": "Dios del mar",
+            "pic": "https://images3.alphacoders.com/760/thumb-1920-760090.jpg"
         },
         {
             "id": "10",
-            "Panteon": "Nórdico",
-            "Dios": "Heimdallr",
-            "Descripcion": "Dios guardián",
-            "Imagen": "https://images6.alphacoders.com/105/1053799.jpg"
+            "pant": "Nórdico",
+            "dios": "Heimdallr",
+            "des": "Dios guardián",
+            "pic": "https://images6.alphacoders.com/105/1053799.jpg"
         }
 
     ]
