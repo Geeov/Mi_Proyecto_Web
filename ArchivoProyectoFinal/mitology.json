@@ -1,0 +1,77 @@
+{
+    "apiName": "mitology",
+    "origin": "México",
+    "created": 2021,
+    "figures":[
+        {
+            "id":"1",
+            "pant":"Nórdico",
+            "dios":"Loki",
+            "des":"Dios del engaño",
+            "pic":"https://drive.google.com/uc?export=view&id=1FoJVJz0X_opH9xo9Bdor_NyvYAEl3nBZ"
+        },
+        {
+            "id":"2",
+            "pant":"Nórdico",
+            "dios":"Skadi",
+            "des":"Diosa del invierno",
+            "pic":"https://drive.google.com/uc?export=view&id=16ohtL17e1Ch6aC63EMfxoDcfUf0CT1s_"
+        },
+        {
+            "id":"3",
+            "pant":"Celta",
+            "dios":"Cu Chulainn",
+            "des":"Perro de Culann",
+            "pic":"https://drive.google.com/uc?export=view&id=1Z81_O2FLpitr_s_DpFsJoDwKmCqRB9oM"
+        },
+        {
+            "id":"4",
+            "pant":"Nórdico",
+            "dios":"Jormundgander",
+            "des":"La Serpiente de Midgard",
+            "pic":"https://drive.google.com/uc?export=view&id=1V744LScu2iGS1dte3NoN6sIKUt3dvidh"
+        },
+        {
+            "id":"5",
+            "pant":"Egipcio",
+            "dios":"Seth",
+            "des":"Dios de la sequía",
+            "pic":"https://drive.google.com/uc?export=view&id=1RR_1CXrekNmxI01CAJv4MKmarI9EfCuu"
+        },
+        {
+            "id":"6",
+            "pant":"Egipcio",
+            "dios":"Horus",
+            "des":"Dios del cielo",
+            "pic":"https://drive.google.com/uc?export=view&id=1VFIfqGD3CjVxjbegcrw0CrzG2rbwgQ6R"
+        },
+        {
+            "id":"7",
+            "pant":"Griego",
+            "dios":"Perséfone",
+            "des":"Diosa del inframundo",
+            "pic":"https://drive.google.com/uc?export=view&id=1fXDkrYyaYOVVu-F00uFeXM4kCDTT5Hqk"
+        },
+        {
+            "id":"8",
+            "pant":"Japonés",
+            "dios":"Amaterasu",
+            "des":"Diosa del sol",
+            "pic":"https://drive.google.com/uc?export=view&id=1f-U4CBCJ0oZubWSfk6Qb_f4KFfvU2seK"
+        },
+        {
+            "id":"9",
+            "pant":"Japonés",
+            "dios":"Susano",
+            "des":"Dios del mar",
+            "pic":"https://drive.google.com/uc?export=view&id=1ghAr1fTo-tyOfarsuV4qx5PrCGUcKRhD"
+        },
+        {
+            "id":"10",
+            "pant":"Nórdico",
+            "dios":"Heimdallr",
+            "des":"Dios guardián",
+            "pic":"https://drive.google.com/uc?export=view&id=1VIVwE-Lmfi_XOIgfONnp1Lu2W6hGUXm6"
+        }
+    ]
+}
