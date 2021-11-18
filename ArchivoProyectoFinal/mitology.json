@@ -72,6 +72,76 @@
             "dios":"Heimdallr",
             "des":"Dios guardián",
             "pic":"https://drive.google.com/uc?export=view&id=1VIVwE-Lmfi_XOIgfONnp1Lu2W6hGUXm6"
+        },
+        {
+            "id": 11,
+            "pant":"Chino",
+            "dios":"Sun Wukong",
+            "des":"Rey Mono",
+            "pic":"https://drive.google.com/uc?export=view&id=17DW1NS2jhTqqBxoIDle3Lmze6PO0hoE6"
+        },
+        {
+            "id": 12,
+            "pant":"Chino",
+            "dios":"Ao Kuang",
+            "des":"Rey Dragón",
+            "pic":"https://drive.google.com/uc?export=view&id=1EdLi9yPgUUNtWBLI_aWEJMRWltNoNc_i"
+        },
+        {
+            "id": 13,
+            "pant":"Griego",
+            "dios":"Ares",
+            "des":"Dios de la guerra",
+            "pic":"https://drive.google.com/uc?export=view&id=1ojv3bgJAdvcPC4qiHNR1dJbQ9f39MOf2"
+        },
+        {
+            "id": 14,
+            "pant":"Nórdico",
+            "dios":"Fenrir",
+            "des":"Bestia del Ragnarok",
+            "pic":"https://drive.google.com/uc?export=view&id=1sJYJexirKRMn7e_FEnc4-cbHK3QqBmiC"
+        },
+        {
+            "id": 15,
+            "pant":"Nórdico",
+            "dios":"Ullr",
+            "des":"Dios de la caza",
+            "pic":"https://drive.google.com/uc?export=view&id=1ndtHGqy2NaKUjazbqAEVlP2XS3ZCIHFz"
+        },
+        {
+            "id": 16,
+            "pant":"Chino",
+            "dios":"Hou Yi",
+            "des":"Salvador del mundo",
+            "pic":"https://drive.google.com/uc?export=view&id=1alETdYeEl4qAbUWbJqIi9y3wlE-JLmee"
+        },
+        {
+            "id": 17,
+            "pant":"Egipcio",
+            "dios":"Thot",
+            "des":"Dios de la sabiduría",
+            "pic":"https://drive.google.com/uc?export=view&id=1JTk9tjern48338FKN6e1ugGmPDAFLf0A"
+        },
+        {
+            "id": 18,
+            "pant":"Griego",
+            "dios":"Hades",
+            "des":"Dios del inframundo",
+            "pic":"https://drive.google.com/uc?export=view&id=1zqtP3Cek0iPVKSQ2jCSAinOiv-YoGTQw"
+        },
+        {
+            "id": 19,
+            "pant":"Romano",
+            "dios":"Nox",
+            "des":"Diosa de la noche",
+            "pic":"https://drive.google.com/uc?export=view&id=1maHfPzdOuLXb--7NrofmH-Iz1Nosvja7"
+        },
+        {
+            "id": 20,
+            "pant":"Griego",
+            "dios":"Thanatos",
+            "des":"Dios de la muerte",
+            "pic":"https://drive.google.com/uc?export=view&id=1F-PML8SN6KmW9LOvRj4FBMaoA5EhP9WU"
         }
     ]
 }
